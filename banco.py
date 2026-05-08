@@ -5,7 +5,7 @@ balance = int(input("Initial balance: "))
 lower_balance = balance
 
 for count in range(int(P)):
-    x = int(input("Transition "))
+    x = int(input("Transition: "))
     balance = balance + x
     if balance < lower_balance:
       lower_balance = balance
