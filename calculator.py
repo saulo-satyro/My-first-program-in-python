@@ -1,4 +1,4 @@
-
+#Hey, I don't have much to say, it's a calculator, so enjoy it!
 num1 = float(input("Insert a number: "))
 op = str(input("Insert a operator: "))
 num2 = float(input("Insert a operator: "))
